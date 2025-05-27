@@ -1,5 +1,5 @@
 # Cybersecurity-Anyalysis
-Business context: in the last month, some cybersecurity events with different durations and patterns have been registered
+Business context: Over the past month, several cybersecurity incidents with varying durations and patterns have been recorded.
 ##  Objective:
 To analyze the duration, patterns, and impact of cybersecurity incidents in order to extract actionable insights, improve incident response strategies, and enhance the overall security posture of an organization or system.
 
