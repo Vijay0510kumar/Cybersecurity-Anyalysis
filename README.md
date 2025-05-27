@@ -80,3 +80,6 @@ Improved resource planning for incident response
 
 Increased awareness of critical weak points in the infrastructure
 
+![Screenshot 2025-05-27 075625](https://github.com/user-attachments/assets/258f30c0-f236-4323-867c-2eec3ba40829)
+
+
